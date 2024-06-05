@@ -1,3 +1,3 @@
-module github.com/rizkiamr/go-wc
+module github.com/rizkiamr/ccwc
 
 go 1.17
