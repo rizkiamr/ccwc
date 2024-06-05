@@ -100,6 +100,7 @@ In this step your goal is to support being able to read from standard input if n
 
 ```plain
 >cat test.txt | ccwc -l
+    7145
 ```
 
 If it doesn't, check your code, fix any bugs and try again. If it does, congratulations! You've done it, pat yourself on the back, job well done!
