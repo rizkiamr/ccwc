@@ -1,8 +1,8 @@
-# go-wc
+# ccwc - Build Your Own wc Tool
 
 > From: [Coding Challenges - Build Your Own wc Tool](https://codingchallenges.fyi/challenges/challenge-wc)
 
-## Build Your Own wc Tool
+## Overview
 
 This challenge is to build your own version of the Unix command line tool wc!
 
