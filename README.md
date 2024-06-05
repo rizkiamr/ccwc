@@ -11,9 +11,9 @@ The Unix command line tools are a great metaphor for good software engineering a
 - Writing simple parts connected by clean interfaces - each tool does just one thing and provides a simple CLI that handles text input from either files or file streams.
 - Design programs to be connected to other programs - each tool can be easily connected to other tools to create incredibly powerful compositions.
 
-Following these philosophies has made the simple unix command line tools some of the most widely used software engineering tools - allowing us to create very complex text data processing pipelines from simple command line tools. There's even a Coursera coure on [Linux and Bash for Data Engineering](https://gb.coursera.com/learn/linux-and-bash-for-data-engineering-duke).
+Following these philosophies has made the simple unix command line tools some of the most widely used software engineering tools - allowing us to create very complex text data processing pipelines from simple command line tools. There's even a Coursera coure on [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke).
 
-You can read more about the Unix Philosophy in the excellent book [The Art of Unix Programming](www.catb.org/~esr/writings/taoup/html/).
+You can read more about the Unix Philosophy in the excellent book [The Art of Unix Programming](https://www.catb.org/~esr/writings/taoup/html/).
 
 ## The Challenge - Building wc
 
@@ -70,7 +70,7 @@ If it doesn't, check your code, fix any bugs and try again. If it does, congratu
 ## Step Four
 In this step your goal is to support the command line option -m that outputs the number of characters in a file. If the current locale does not support multibyte characters this will match the -c option.
 
-You can learn more about programming for locales [here](https://learn.microsoft.com/en-us/globalization/locale/local-and-culture)
+You can learn more about programming for locales [here](https://learn.microsoft.com/en-us/globalization/locale/locale-and-culture)
 
 For this one your answer will depend on your locale, so if can, use wc itself and compare the output to your solution:
 
