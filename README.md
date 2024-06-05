@@ -33,7 +33,7 @@ Like all good software engineering we're zero indexed! In this step you're going
 
 I'll leave you to setup your IDE / editor of choice and programming language of choice. After that here's what I'd like you to do to be ready to test your solution.
 
-Download the this [text](https://www.dropbox.com/scl/fi/d4zs6aoq6hr3oew2b6a9v/test.txt?rlkey=20c9d257pxd5emjjzd1gcbn03&dl=0) (or [link](https://cdn.rizkiamr.com/others/ccwc/test.txt)) and save it as `test.txt`.
+Download the this [text](https://www.dropbox.com/scl/fi/d4zs6aoq6hr3oew2b6a9v/test.txt?rlkey=20c9d257pxd5emjjzd1gcbn03&dl=0) (or this [text](https://cdn.rizkiamr.com/others/ccwc/test.txt)) and save it as `test.txt`.
 
 ## Step One
 
