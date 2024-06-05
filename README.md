@@ -1,8 +1,8 @@
-# ccwc - Build Your Own wc Tool
+# go-wc
 
 > From: [Coding Challenges - Build Your Own wc Tool](https://codingchallenges.fyi/challenges/challenge-wc)
 
-### Overview
+## Build Your Own wc Tool
 
 This challenge is to build your own version of the Unix command line tool wc!
 
@@ -25,7 +25,7 @@ man wc
 
 The TL/DR version is: **wc** - word, line, character, and byte count. You can see the result in action in the video below:
 
-`video: https://www.youtube.com/watch?v=SGceNxdKabQ`
+[![Coding Challenges: Build Your Own WC!](https://img.youtube.com/vi/SGceNxdKabQ/0.jpg)](https://www.youtube.com/watch?v=SGceNxdKabQ)
 
 ## Step Zero
 
